@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thespeedingatom
+- 👀 I’m interested in OSINT, Intelligence Analysis & Machine Learning
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on some tracelabs, OSINT Projects
+- 📫 How to reach me ... leave a comment
